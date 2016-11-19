@@ -1,7 +1,7 @@
 # CCS
 
 ### Motivation 
-[TDDSkill](http://i.imgur.com/IkpG4bx.png)
+![TDDSkill](http://i.imgur.com/IkpG4bx.png)
 
 ### TDD Thinking 
 
