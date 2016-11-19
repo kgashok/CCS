@@ -1,5 +1,7 @@
 # CCS
 
+![TDDJagger](http://bit.ly/tddJagger)
+
 ### Motivation 
 ![TDDSkill](http://i.imgur.com/IkpG4bx.png)
 
