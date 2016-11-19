@@ -11,4 +11,7 @@
 
 ![TDDCycle](http://i.imgur.com/G4OU66D.jpg)
 
+### Video key for indexOf in TDD
+
+Part 1 and Part 2 - http://j.mp/indexTDD
 
