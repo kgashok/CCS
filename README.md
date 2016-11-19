@@ -1,11 +1,10 @@
 # CCS
 
 
-## First Session 
+## 15th Session - Nov 19, 2016
 ![Session1](/img/SessionNov2016.jpg) 
 
-18+ attendees; Attempted FizzBuzz (C) and FizzBuzzPlus (Java). 3 hour session.
-Participants were asked to practice TDD on a daily basis until they feel 
+18+ attendees; Attempted FizzBuzz (C) and FizzBuzzPlus (Java). 3 hour session. Participants were asked to practice TDD on a daily basis until they feel 
 confident to be able to use it in their workplace. 
 
 ## Important Takeaways
