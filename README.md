@@ -15,3 +15,6 @@
 
 Part 1 and Part 2 - http://j.mp/indexTDD
 
+### Typing practice 
+
+Typing practice using actual opensource code - https://typing.io/
